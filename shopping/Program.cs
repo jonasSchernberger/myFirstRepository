@@ -1,0 +1,17 @@
+﻿Console.WriteLine("Nudelblätter");
+Console.WriteLine("Salz");
+Console.WriteLine("Tomaten");
+Console.WriteLine("Faschiertes");
+Console.WriteLine("Käse");
+Console.WriteLine("Milch");
+Console.WriteLine("Mehl");
+Console.WriteLine("Pfeffer");
+Console.WriteLine("Butter");
+Console.WriteLine("Zwiebeln");
+Console.WriteLine("Getränke");
+Console.WriteLine("Rotwein");
+Console.WriteLine("Weißwein");
+Console.WriteLine("Mascarpone");
+Console.WriteLine("Eier");
+Console.WriteLine("Kakao");
+Console.WriteLine("Biskotten");
